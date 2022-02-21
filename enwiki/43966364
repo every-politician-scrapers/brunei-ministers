@@ -1,0 +1,65 @@
+{
+  "title": "Template:Current Brunei Cabinet",
+  "pageID": 43966364,
+  "categories": [
+    "Brunei politics and government templates"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "autocollapse}"
+          ],
+          "template": "{state"
+        },
+        {
+          "name": "Current Brunei Cabinet",
+          "title": "Current members of the Cabinet of Brunei",
+          "listclass": "hlist",
+          "image": "Emblem of Brunei.svg",
+          "imageleft": "Flag of Brunei.svg",
+          "group1": "Prime Minister",
+          "list1": "* Hassanal Bolkiah",
+          "group2": "Senior Minister",
+          "list2": "* Al-Muhtadee Billah",
+          "group3": "Ministers",
+          "list3": "* Abdul Mokti\n* Abdul Mutalib\n* Abu Bakar\n* Ali\n* Aminuddin\n* Badaruddin\n* Isa\n* Erywan\n* Halbi\n* Hamzah\n* Md. Isham\n* Md. Suny\n* Mohd. Amin Liew\n* Suhaimi",
+          "group4": "Deputy Ministers",
+          "list4": "* Ahmaddin\n* Elinda\n* Matsatejo\n* Pengiran Bahrom\n* Romaizah",
+          "below": "Government of Brunei",
+          "template": "navbox"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "collapsible option"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.pelitabrunei.gov.bn/Lists/Berita%202018/NewDisplayForm.aspx?ID=12530",
+          "title": "Berkenan umum pelantikan kabinet baharu",
+          "date": "30 January 2018",
+          "website": "Pelita Brunei",
+          "publisher": "Department of Information, Brunei",
+          "language": "Malay",
+          "access-date": "31 January 2018",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    }
+  ]
+}
