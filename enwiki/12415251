@@ -1,0 +1,445 @@
+{
+  "title": "Council of Cabinet Ministers",
+  "pageID": 12415251,
+  "categories": [
+    "Government of Brunei",
+    "National cabinets"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Council of Cabinet Ministers (Majlis Mesyuarat Menteri-Menteri Kabinet) is the body of high-ranking Brunei officials, consisting of the top leaders of the executive branch of Brunei government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brunei"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Council of Cabinet Ministers"
+                ]
+              }
+            },
+            {
+              "text": "Led by the Sultan himself, who has also been the Prime Minister of Brunei since 1984.",
+              "links": [
+                {
+                  "text": "Sultan",
+                  "type": "internal",
+                  "page": "List of Sultans of Brunei"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Brunei"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Council consists of the Prime Minister (the Sultan), the Senior Minister (the Crown Prince), ministers and the second ministers, and deputy ministers of respectives ministries.",
+              "links": [
+                {
+                  "text": "Sultan",
+                  "type": "internal",
+                  "page": "Hassanal Bolkiah"
+                },
+                {
+                  "text": "Crown Prince",
+                  "type": "internal",
+                  "page": "Crown Prince of Brunei"
+                }
+              ]
+            },
+            {
+              "text": "All of the ministers and deputy ministers are appointed by the Prime Minister-Sultan."
+            },
+            {
+              "text": "The ministers are responsible directly to the Sultan and hold their seats at His Majesty's pleasure, usually reshuffle and nominate every 5 years."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "politics of brunei"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.agc.gov.bn/AGC%20Images/LOB/cons_doc/constitution_i.pdf",
+          "title": "Constitution of Brunei Darussalam",
+          "publisher": "Attorney-General's Chambers, Brunei",
+          "year": "2010",
+          "location": "Bandar Seri Begawan",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Current members",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since 30 January 2018 (reshuffle after 3 years since October 2015), the Council consists of the following:"
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Ministry": {
+              "text": "Prime Minister's Office"
+            },
+            "Minister": {
+              "text": "* HM Sultan Hassanal Bolkiah (Prime Minister) * HRH Crown Prince Al-Muhtadee Billah (Senior Minister) * Hon. Isa Ibrahim (Minister and His Majesty's Special Advisor)  * Hon. Abdul Mokti Mohd. Daud (Minister)",
+              "links": [
+                {
+                  "text": "HM",
+                  "type": "internal",
+                  "page": "Majesty"
+                },
+                {
+                  "text": "Sultan Hassanal Bolkiah",
+                  "type": "internal",
+                  "page": "Hassanal Bolkiah"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Brunei"
+                },
+                {
+                  "text": "HRH",
+                  "type": "internal",
+                  "page": "Royal Highness"
+                },
+                {
+                  "text": "Crown Prince Al-Muhtadee Billah",
+                  "type": "internal",
+                  "page": "Al-Muhtadee Billah"
+                },
+                {
+                  "text": "Isa Ibrahim",
+                  "type": "internal",
+                  "page": "Isa Ibrahim (Brunei)"
+                }
+              ]
+            },
+            "Deputy Minister": {
+              "text": ""
+            },
+            "col4": {
+              "text": "* Matsatejo Sokiaw (Deputy Minister of Energy)"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Transport and Infocommunications",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Transport and Infocommunications"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "* Hon. Abdul Mutalib Md. Yusof"
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Culture, Youth and Sports"
+            },
+            "Minister": {
+              "text": "* Hon. Maj. Gen. (Rtd.) Aminuddin Abidin"
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Defence",
+              "links": [
+                {
+                  "text": "Ministry of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Brunei)"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "* HM Sultan Hassanal Bolkiah * Hon. Maj. Gen. (Rtd.) Halbi Mohd. Yussof (Second Minister)",
+              "links": [
+                {
+                  "text": "HM",
+                  "type": "internal",
+                  "page": "Majesty"
+                },
+                {
+                  "text": "Sultan Hassanal Bolkiah",
+                  "type": "internal",
+                  "page": "Hassanal Bolkiah"
+                },
+                {
+                  "text": "Maj. Gen. (Rtd.) Halbi Mohd. Yussof",
+                  "type": "internal",
+                  "page": "Awang Halbi bin Mohd Yussof"
+                }
+              ]
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Development"
+            },
+            "Minister": {
+              "text": "* Hon. Suhaimi Gafar"
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Education"
+            },
+            "Minister": {
+              "text": "* Hon. Hamzah Sulaiman"
+            },
+            "Deputy Minister": {
+              "text": "* Dr. Romaizah Md. Salleh"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Energy",
+              "links": [
+                {
+                  "text": "Ministry of Energy",
+                  "type": "internal",
+                  "page": "Ministry of Energy (Brunei)"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "* Hon. Dr. Mat Suny Mohd Hussein"
+            },
+            "Deputy Minister": {
+              "text": "* Matsatejo Sokiaw"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Finance and Economy",
+              "links": [
+                {
+                  "text": "Ministry of Finance and Economy",
+                  "type": "internal",
+                  "page": "Ministry of Finance and Economy (Brunei)"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "* HM Sultan Hassanal Bolkiah * Hon. Dr. Mohd. Amin Liew Abdullah (Second Minister)",
+              "links": [
+                {
+                  "text": "HM",
+                  "type": "internal",
+                  "page": "Majesty"
+                },
+                {
+                  "text": "Sultan Hassanal Bolkiah",
+                  "type": "internal",
+                  "page": "Hassanal Bolkiah"
+                }
+              ]
+            },
+            "Deputy Minister": {
+              "text": "* Ahmaddin Abd. Rahman"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Foreign Affairs and Trade",
+              "links": [
+                {
+                  "text": "Ministry of Foreign Affairs and Trade",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Brunei)"
+                }
+              ]
+            },
+            "Minister": {
+              "text": "* HM Sultan Hassanal Bolkiah * Hon. Erywan Yusof (Second Minister)",
+              "links": [
+                {
+                  "text": "HM",
+                  "type": "internal",
+                  "page": "Majesty"
+                },
+                {
+                  "text": "Sultan Hassanal Bolkiah",
+                  "type": "internal",
+                  "page": "Hassanal Bolkiah"
+                },
+                {
+                  "type": "internal",
+                  "page": "Erywan Yusof"
+                }
+              ]
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Health"
+            },
+            "Minister": {
+              "text": "* Hon. Dr. Md. Isham Jaafar"
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Home Affairs"
+            },
+            "Minister": {
+              "text": "* Hon. Abu Bakar Apong",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abu Bakar Apong"
+                }
+              ]
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Primary Resources and Tourism"
+            },
+            "Minister": {
+              "text": "* Hon. Ali Apong"
+            },
+            "Deputy Minister": {
+              "text": ""
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Religious Affairs"
+            },
+            "Minister": {
+              "text": "* Hon. Awang Badaruddin Awang Othman"
+            },
+            "Deputy Minister": {
+              "text": "* Pengiran Bahrom Pengiran Bahar"
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://pelitabrunei.gov.bn/Arkib%20Dokumen/2018/Januari/pelitabrunei_310118.pdf#search=Berkenan%20umum%20pelantikan%20kabinet%20baharu",
+          "title": "Pelantikan Menteri-Menteri Kabinet Baharu",
+          "date": "31 January 2018",
+          "website": "Pelita Brunei",
+          "publisher": "Department of Information",
+          "location": "Bandar Seri Begawan",
+          "language": "ms",
+          "access-date": "9 September 2021",
+          "pp": "3",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Government of Brunei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Brunei"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current brunei cabinet"
+        },
+        {
+          "template": "brunei topics"
+        },
+        {
+          "list": [
+            "Cabinet of"
+          ],
+          "title": "National cabinets of Asia",
+          "bn": "Council of Cabinet Ministers",
+          "template": "asia topic"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Councils of State official website (Malay)",
+            "links": [
+              {
+                "text": "Councils of State official website",
+                "type": "external",
+                "site": "http://www.councils.gov.bn/Theme/Home.aspx"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
