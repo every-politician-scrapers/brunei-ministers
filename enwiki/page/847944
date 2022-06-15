@@ -442,6 +442,9 @@
       "templates": [
         {
           "template": "kabinet brunei"
+        },
+        {
+          "template": "topik brunei"
         }
       ]
     }
