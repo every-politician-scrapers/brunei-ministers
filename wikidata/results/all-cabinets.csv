@@ -1,1 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+2,Q110132028,Q110132028,1986-10-20,11,,,1988-01-01,9,,,,,,,,,,
+4,Q65220947,Q65220947,2005-05-24,11,,,2010-05-01,10,,,,,Q65220948,Q65220948,,,,
+5,Q65220948,Q65220948,2010-05-29,11,,,2015-10-01,10,,,Q65220947,Q65220947,Q61114037,Q61114037,,,,
+6,Q61114037,Q61114037,2015-10-22,11,,,2018-01-01,10,,,Q65220948,Q65220948,,,,,,
+7,Q110133298,2018– Cabinet of Brunei,2018-01-30,11,,,,,,,,,,,,,,
