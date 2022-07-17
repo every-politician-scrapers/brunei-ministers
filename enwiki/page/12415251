@@ -92,7 +92,7 @@
         {
           "sentences": [
             {
-              "text": "Since 30 January 2018 (reshuffle after 3 years since October 2015), the Council consists of the following:"
+              "text": "Since 7 June 2022 (reshuffle after 4 years since October 2018), the Council consists of the following:"
             }
           ]
         }
@@ -104,7 +104,7 @@
               "text": "Prime Minister's Office"
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah (Prime Minister) * HRH Crown Prince Al-Muhtadee Billah (Senior Minister) * Hon. Isa Ibrahim (Minister and His Majesty's Special Advisor)  * Hon. Abdul Mokti Mohd. Daud (Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah (Prime Minister) * HRH Crown Prince Al-Muhtadee Billah (Senior Minister) * Hon. Awang Isa Awang Ibrahim (Minister and His Majesty's Special Advisor)  * Hon. Maj. Gen. (Rtd.) Awang Halbi Mohd. Yussof (Minister)  * Hon. Dr. Awang Mohd. Amin Liew Abdullah (Second Minister of Finance and Economy)",
               "links": [
                 {
                   "text": "HM",
@@ -132,17 +132,14 @@
                   "page": "Al-Muhtadee Billah"
                 },
                 {
-                  "text": "Isa Ibrahim",
+                  "text": "Maj. Gen. (Rtd.) Awang Halbi Mohd. Yussof",
                   "type": "internal",
-                  "page": "Isa Ibrahim (Brunei)"
+                  "page": "Awang Halbi bin Mohd Yussof"
                 }
               ]
             },
             "Deputy Minister": {
-              "text": ""
-            },
-            "col4": {
-              "text": "* Matsatejo Sokiaw (Deputy Minister of Energy)"
+              "text": "* Hon. Awang Mohd. Riza Mohd. Yunos (Deputy Minister) * Hon. Awang Sufian Sabtu (Deputy Minister) * Hon. Awang Matsatejo Sokiaw (Deputy Minister of Energy)"
             }
           },
           {
@@ -156,7 +153,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Abdul Mutalib Md. Yusof"
+              "text": "* Hon. Pengiran Shamhary Pengiran Mustafa"
             },
             "Deputy Minister": {
               "text": ""
@@ -174,7 +171,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Maj. Gen. (Rtd.) Aminuddin Abidin"
+              "text": "* Hon. Awang Nazmi Mohammad"
             },
             "Deputy Minister": {
               "text": ""
@@ -192,7 +189,7 @@
               ]
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah * Hon. Maj. Gen. (Rtd.) Halbi Mohd. Yussof (Second Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah",
               "links": [
                 {
                   "text": "HM",
@@ -203,16 +200,11 @@
                   "text": "Sultan Hassanal Bolkiah",
                   "type": "internal",
                   "page": "Hassanal Bolkiah"
-                },
-                {
-                  "text": "Maj. Gen. (Rtd.) Halbi Mohd. Yussof",
-                  "type": "internal",
-                  "page": "Awang Halbi bin Mohd Yussof"
                 }
               ]
             },
             "Deputy Minister": {
-              "text": ""
+              "text": "* Hon. Brig. Gen. Awang Abd. Razak Abd. Kadir"
             }
           },
           {
@@ -227,7 +219,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Suhaimi Gafar"
+              "text": "* Hon. Awang Mohd. Juanda Abd. Rashid"
             },
             "Deputy Minister": {
               "text": ""
@@ -245,28 +237,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Hamzah Sulaiman"
-            },
-            "Deputy Minister": {
-              "text": "* Dr. Romaizah Md. Salleh"
-            }
-          },
-          {
-            "Ministry": {
-              "text": "Ministry of Energy",
-              "links": [
-                {
-                  "text": "Ministry of Energy",
-                  "type": "internal",
-                  "page": "Ministry of Energy (Brunei)"
-                }
-              ]
-            },
-            "Minister": {
-              "text": "* Hon. Dr. Mat Suny Mohd Hussein"
-            },
-            "Deputy Minister": {
-              "text": "* Matsatejo Sokiaw"
+              "text": "* Hon. Dr. Dayang Romaizah Mohd. Salleh"
             }
           },
           {
@@ -281,7 +252,7 @@
               ]
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah * Hon. Dr. Mohd. Amin Liew Abdullah (Second Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah * Hon. Dr. Awang Mohd. Amin Liew Abdullah (Second Minister)",
               "links": [
                 {
                   "text": "HM",
@@ -296,22 +267,22 @@
               ]
             },
             "Deputy Minister": {
-              "text": "* Ahmaddin Abd. Rahman"
+              "text": "* Hon. Awang Khairuddin Abd. Hamid * Hon. Pengiran Zety Sufina Pengiran Sani"
             }
           },
           {
             "Ministry": {
-              "text": "Ministry of Foreign Affairs and Trade",
+              "text": "Ministry of Foreign Affairs",
               "links": [
                 {
-                  "text": "Ministry of Foreign Affairs and Trade",
+                  "text": "Ministry of Foreign Affairs",
                   "type": "internal",
                   "page": "Ministry of Foreign Affairs (Brunei)"
                 }
               ]
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah * Hon. Erywan Yusof (Second Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah * Hon. Awang Erywan Yusof (Second Minister)",
               "links": [
                 {
                   "text": "HM",
@@ -324,13 +295,11 @@
                   "page": "Hassanal Bolkiah"
                 },
                 {
+                  "text": "Awang Erywan Yusof",
                   "type": "internal",
                   "page": "Erywan Yusof"
                 }
               ]
-            },
-            "Deputy Minister": {
-              "text": ""
             }
           },
           {
@@ -345,7 +314,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Dr. Md. Isham Jaafar"
+              "text": "* Hon. Dr. Awang Mohd. Isham Jaafar"
             },
             "Deputy Minister": {
               "text": ""
@@ -363,13 +332,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Abu Bakar Apong",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Abu Bakar Apong"
-                }
-              ]
+              "text": "* Hon. Awang Ahmaddin Abd. Rahman"
             },
             "Deputy Minister": {
               "text": ""
@@ -386,7 +349,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Ali Apong"
+              "text": "* Hon. Awang Abd. Manaf Metussin"
             },
             "Deputy Minister": {
               "text": ""
@@ -404,24 +367,24 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Awang Badaruddin Awang Othman"
+              "text": "* Hon. Awang Badaruddin Othman"
             },
             "Deputy Minister": {
-              "text": "* Pengiran Bahrom Pengiran Bahar"
+              "text": "* Hon. Pengiran Tassim Pengiran Hassan"
             }
           }
         ]
       ],
       "references": [
         {
-          "url": "http://pelitabrunei.gov.bn/Arkib%20Dokumen/2018/Januari/pelitabrunei_310118.pdf#search=Berkenan%20umum%20pelantikan%20kabinet%20baharu",
-          "title": "Pelantikan Menteri-Menteri Kabinet Baharu",
-          "date": "31 January 2018",
+          "url": "http://pelitabrunei.gov.bn/Arkib%20Dokumen/2022/PELITA%20BRUNEI%2008062022.pdf",
+          "title": "Pelantikan, Pertukaran Menteri Kabinet, Timbalan Menteri",
+          "date": "8 June 2022",
           "website": "Pelita Brunei",
           "publisher": "Department of Information",
           "location": "Bandar Seri Begawan",
           "language": "ms",
-          "access-date": "9 September 2021",
+          "access-date": "4 July 2022",
           "pp": "3",
           "template": "citation",
           "type": "news"
