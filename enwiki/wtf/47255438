@@ -1530,6 +1530,19 @@
               "text": "In April 2019, the RCGP withdrew this honour in light of new LGBT laws supported by the sultan which are not in concert with the organisation's values."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Due to the international condemnation of the legislation, Bolkiah announced that he would extend a moratorium on capital punishment for homosexuality and ratify the United Nations Convention Against Torture.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Convention Against Torture"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -1619,6 +1632,39 @@
           "url": "https://www.rcgp.org.uk/about-us/news/2019/april/rcgp-update-on-sultan-of-brunei-and-companion-of-the-college-honour.aspx",
           "title": "RCGP update on Sultan of Brunei and 'Companion of the College' honour",
           "website": "www.rcgp.org.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://edition.cnn.com/2019/05/05/asia/brunei-lgbt-death-penalty-intl/index.html",
+          "title": "Brunei backs down on gay sex death penalty after international backlash",
+          "first": "Ben",
+          "last": "Westcott",
+          "first2": "Rebecca",
+          "last2": "Wright",
+          "newspaper": "CNN",
+          "date": "2019-05-06",
+          "access-date": "2022-07-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-asia-48171165",
+          "title": "Brunei says it won't enforce death penalty for gay sex",
+          "newspaper": "BBC",
+          "date": "2019-05-06",
+          "access-date": "2022-07-23",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.npr.org/2019/05/06/720598000/brunei-wont-enforce-death-by-stoning-law-for-gay-sex-sultan-says",
+          "title": "Brunei Won't Enforce Death-By-Stoning Law For Gay Sex, Sultan Says",
+          "first": "Bill",
+          "last": "Chappell",
+          "newspaper": "NPR",
+          "date": "2019-05-06",
+          "access-date": "2022-07-23",
           "template": "citation",
           "type": "web"
         }
