@@ -70,6 +70,10 @@
       ],
       "templates": [
         {
+          "description": "Bruneian council of government ministers",
+          "template": "short description"
+        },
+        {
           "template": "politics of brunei"
         }
       ],
@@ -86,13 +90,314 @@
       ]
     },
     {
+      "title": "History",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The cabinet was established in 1959."
+            },
+            {
+              "text": "Immediately upon Brunei's independence on 1 January 1984, the following portfolios were introduced as the first cabinet line-up:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 October 1986, after the demise of the late Sultan Omar Ali Saifuddien III, the cabinet was reshuffled which saw the introduction of new ministerial posts, namely the Ministers of Health and Religious Affairs, and Special Adviser in the Prime Minister's Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sultan Omar Ali Saifuddien III"
+                }
+              ]
+            },
+            {
+              "text": "The reshuffle saw the cabinet being enlarged to a total of 13 ministerial and 8 deputy ministerial posts."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The cabinet was reshuffled again in 1988, 2005, 2010, 2015, 2018, and 2022."
+            },
+            {
+              "text": "Since 2005, cabinet reshuffle typically happened every five years."
+            },
+            {
+              "text": "However, the 2015 cabinet term lasted less than five years with a \"surprise\" reshuffle in 2018, with no official reason given, although it was speculated that corruption could be a reason."
+            },
+            {
+              "text": "In contrast to the previous cabinets which served or intended to serve for five years, the 2022 cabinet shall serve for a four-year term."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The State Mufti and Attorney General were included in the cabinet and declared ministry-level positions in the reshuffles of 2005, 2010, 2015, and 2018.",
+              "links": [
+                {
+                  "text": "State Mufti",
+                  "type": "internal",
+                  "page": "State Mufti of Brunei"
+                },
+                {
+                  "text": "Attorney General",
+                  "type": "internal",
+                  "page": "Attorney General of Brunei"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The 2005 cabinet line-up saw the introduction of new ministerial posts, namely Senior Minister in the Prime Minister's Office, Minister of Energy in the Prime Minister's Office, Second Minister of Finance, and Second Minister of Foreign Affairs."
+            },
+            {
+              "text": "Meanwhile, the 2018 cabinet line-up saw the introduction of the new Second Minister of Defence, but the position was not renewed in 2022 reshuffle."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The 2010 reshuffle saw the appointment of Adina Othman as the first female deputy minister, holding the Deputy Minister of Culture, Youth and Sports portfolio.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adina Othman"
+                }
+              ]
+            },
+            {
+              "text": "Meanwhile, the 2022 reshuffle saw the appointment of Romaizah Mohd Salleh as the first female minister, holding the Minister of Education portfolio."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "author": "Menon",
+          "year": "1987",
+          "p": "92",
+          "template": "sfn"
+        },
+        {
+          "template": "div col end"
+        },
+        {
+          "author": "Menon",
+          "year": "1987",
+          "p": "93",
+          "template": "sfn"
+        },
+        {
+          "author": "Menon",
+          "year": "1987",
+          "p": "93",
+          "template": "sfn"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Prime Minister"
+          },
+          {
+            "text": "Minister of Communications"
+          },
+          {
+            "text": "Minister of Culture, Youth and Sports"
+          },
+          {
+            "text": "Minister of Defence"
+          },
+          {
+            "text": "Minister of Development"
+          },
+          {
+            "text": "Minister of Education"
+          },
+          {
+            "text": "Minister of Finance"
+          },
+          {
+            "text": "Minister of Foreign Affairs"
+          },
+          {
+            "text": "Minister of Home Affairs"
+          },
+          {
+            "text": "Minister of Law"
+          },
+          {
+            "text": "Deputy Minister of Finance"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "first": "Oliver",
+          "last": "Ward",
+          "title": "The underlying reason behind Brunei's cabinet reshuffle",
+          "work": "ASEAN Today",
+          "date": "20 February 2018",
+          "url": "https://www.aseantoday.com/2018/02/the-underlying-reason-behind-bruneis-cabinet-reshuffle/",
+          "access-date": "19 July 2022",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210805010831/https://www.aseantoday.com/2018/02/the-underlying-reason-behind-bruneis-cabinet-reshuffle/",
+          "archive-date": "5 August 2021",
+          "template": "citation",
+          "type": "work"
+        },
+        {
+          "first": "Pg. Hajah Fatimah",
+          "last": "Pg. Haji Md. Noor",
+          "title": "Rombakan Kabinet",
+          "date": "22 October 2015",
+          "publication-date": "24 October 2015",
+          "newspaper": "Pelita Brunei",
+          "p": "1",
+          "issue": "127",
+          "language": "ms",
+          "url": "https://www.pelitabrunei.gov.bn/Arkib%20Dokumen/2015/Oktober/pelitabrunei_241015.pdf",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Reuters Staff",
+          "title": "Brunei ruler replaces top ministers in surprise cabinet reshuffle",
+          "date": "30 January 2018",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-brunei-politics-idUSKBN1FJ19K",
+          "access-date": "19 July 2022",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20181214195015/https://www.reuters.com/article/us-brunei-politics-idUSKBN1FJ19K",
+          "archive-date": "14 December 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Jawatan Mufti Kerajaan dan Peguam Negara bertaraf Menteri",
+          "date": "24 May 2005",
+          "newspaper": "Pelita Brunei",
+          "publication-date": "25 May 2005",
+          "issue": "21",
+          "p": "1",
+          "language": "ms",
+          "url": "https://www.pelitabrunei.gov.bn/Arkib%20Dokumen/2005/25%20MEI%202005.pdf",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Jawatan Mufti Kerajaan, Peguam Negara bertaraf Menteri",
+          "date": "22 October 2015",
+          "publication-date": "24 October 2015",
+          "newspaper": "Pelita Brunei",
+          "p": "3",
+          "issue": "127",
+          "language": "ms",
+          "url": "https://www.pelitabrunei.gov.bn/Arkib%20Dokumen/2015/Oktober/pelitabrunei_241015.pdf",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Jawatan Mufti Kerajaan, Peguam Negara bertaraf Menteri",
+          "date": "30 January 2018",
+          "publication-date": "31 January 2018",
+          "newspaper": "Pelita Brunei",
+          "p": "4",
+          "issue": "14",
+          "language": "ms",
+          "url": "https://www.pelitabrunei.gov.bn/Arkib%20Dokumen/2018/Januari/pelitabrunei_310118.pdf",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Jaafar",
+          "last": "Ibrahim",
+          "title": "Rombakan keahlian Majlis Mesyuarat Menteri-menteri Kabinet",
+          "date": "24 May 2005",
+          "newspaper": "Pelita Brunei",
+          "publication-date": "25 May 2005",
+          "issue": "21",
+          "p": "1",
+          "language": "ms",
+          "url": "https://www.pelitabrunei.gov.bn/Arkib%20Dokumen/2005/25%20MEI%202005.pdf",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://btarchive.org/news/national/2010/05/30/hm-reshuffles-cabinet-appoints-first-woman-deputy-minister",
+          "first": "Ubaidillah",
+          "last": "Masri",
+          "title": "HM reshuffles Cabinet, appoints first woman deputy minister {{pipe}} The BT Archive",
+          "website": "btarchive.org",
+          "date": "30 May 2010",
+          "access-date": "19 July 2022",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220719130135/https://btarchive.org/news/national/2010/05/30/hm-reshuffles-cabinet-appoints-first-woman-deputy-minister",
+          "archive-date": "19 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first": "Rasidah",
+          "last": "Hj Abu Bakar",
+          "first2": "Ain",
+          "last2": "Bandial",
+          "title": "HM: New cabinet must carry out duties with \"full loyalty and responsibility\"",
+          "work": "The Scoop",
+          "date": "7 June 2022",
+          "url": "https://thescoop.co/2022/06/07/hm-new-cabinet-must-carry-out-duties-with-full-loyalty-and-responsibility/",
+          "access-date": "19 July 2022",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220706085753/https://thescoop.co/2022/06/07/hm-new-cabinet-must-carry-out-duties-with-full-loyalty-and-responsibility/",
+          "archive-date": "6 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sultan Brunei rombak Kabinet, menteri wanita pertama dilantik",
+          "date": "8 June 2022",
+          "work": "Berita Harian",
+          "language": "ms",
+          "url": "https://www.bharian.com.my/dunia/asean/2022/06/963527/sultan-brunei-rombak-kabinet-menteri-wanita-pertama-dilantik",
+          "access-date": "19 July 2022",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220617115536/https://www.bharian.com.my/dunia/asean/2022/06/963527/sultan-brunei-rombak-kabinet-menteri-wanita-pertama-dilantik",
+          "archive-date": "17 June 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "July 2022",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
       "title": "Current members",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Since 30 January 2018 (reshuffle after 3 years since October 2015), the Council consists of the following:"
+              "text": "Since 7 June 2022 (reshuffle after 4 years since October 2018), the Council consists of the following:"
             }
           ]
         }
@@ -101,10 +406,17 @@
         [
           {
             "Ministry": {
-              "text": "Prime Minister's Office"
+              "text": "Prime Minister's Office",
+              "links": [
+                {
+                  "text": "Prime Minister's Office",
+                  "type": "internal",
+                  "page": "Prime Minister's Office (Brunei)"
+                }
+              ]
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah (Prime Minister) * HRH Crown Prince Al-Muhtadee Billah (Senior Minister) * Hon. Isa Ibrahim (Minister and His Majesty's Special Advisor)  * Hon. Abdul Mokti Mohd. Daud (Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah (Prime Minister) * HRH Crown Prince Al-Muhtadee Billah (Senior Minister) * Hon. Awang Isa Awang Ibrahim (Minister and His Majesty's Special Advisor)  * Hon. Maj. Gen. (Rtd.) Awang Halbi Mohd. Yussof (Minister)  * Hon. Dr. Awang Mohd. Amin Liew Abdullah (Second Minister of Finance and Economy)",
               "links": [
                 {
                   "text": "HM",
@@ -132,17 +444,14 @@
                   "page": "Al-Muhtadee Billah"
                 },
                 {
-                  "text": "Isa Ibrahim",
+                  "text": "Maj. Gen. (Rtd.) Awang Halbi Mohd. Yussof",
                   "type": "internal",
-                  "page": "Isa Ibrahim (Brunei)"
+                  "page": "Awang Halbi bin Mohd Yussof"
                 }
               ]
             },
             "Deputy Minister": {
-              "text": ""
-            },
-            "col4": {
-              "text": "* Matsatejo Sokiaw (Deputy Minister of Energy)"
+              "text": "* Hon. Awang Mohd. Riza Mohd. Yunos (Deputy Minister) * Hon. Awang Sufian Sabtu (Deputy Minister) * Hon. Awang Matsatejo Sokiaw (Deputy Minister of Energy)"
             }
           },
           {
@@ -156,7 +465,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Abdul Mutalib Md. Yusof"
+              "text": "* Hon. Pengiran Shamhary Pengiran Mustafa"
             },
             "Deputy Minister": {
               "text": ""
@@ -174,7 +483,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Maj. Gen. (Rtd.) Aminuddin Abidin"
+              "text": "* Hon. Awang Nazmi Mohammad"
             },
             "Deputy Minister": {
               "text": ""
@@ -192,7 +501,7 @@
               ]
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah * Hon. Maj. Gen. (Rtd.) Halbi Mohd. Yussof (Second Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah",
               "links": [
                 {
                   "text": "HM",
@@ -203,16 +512,11 @@
                   "text": "Sultan Hassanal Bolkiah",
                   "type": "internal",
                   "page": "Hassanal Bolkiah"
-                },
-                {
-                  "text": "Maj. Gen. (Rtd.) Halbi Mohd. Yussof",
-                  "type": "internal",
-                  "page": "Awang Halbi bin Mohd Yussof"
                 }
               ]
             },
             "Deputy Minister": {
-              "text": ""
+              "text": "* Hon. Brig. Gen. Awang Abd. Razak Abd. Kadir"
             }
           },
           {
@@ -227,7 +531,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Suhaimi Gafar"
+              "text": "* Hon. Awang Mohd. Juanda Abd. Rashid"
             },
             "Deputy Minister": {
               "text": ""
@@ -245,28 +549,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Hamzah Sulaiman"
-            },
-            "Deputy Minister": {
-              "text": "* Dr. Romaizah Md. Salleh"
-            }
-          },
-          {
-            "Ministry": {
-              "text": "Ministry of Energy",
-              "links": [
-                {
-                  "text": "Ministry of Energy",
-                  "type": "internal",
-                  "page": "Ministry of Energy (Brunei)"
-                }
-              ]
-            },
-            "Minister": {
-              "text": "* Hon. Dr. Mat Suny Mohd Hussein"
-            },
-            "Deputy Minister": {
-              "text": "* Matsatejo Sokiaw"
+              "text": "* Hon. Dr. Dayang Romaizah Mohd. Salleh"
             }
           },
           {
@@ -281,7 +564,7 @@
               ]
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah * Hon. Dr. Mohd. Amin Liew Abdullah (Second Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah * Hon. Dr. Awang Mohd. Amin Liew Abdullah (Second Minister)",
               "links": [
                 {
                   "text": "HM",
@@ -296,22 +579,22 @@
               ]
             },
             "Deputy Minister": {
-              "text": "* Ahmaddin Abd. Rahman"
+              "text": "* Hon. Awang Khairuddin Abd. Hamid * Hon. Pengiran Zety Sufina Pengiran Sani"
             }
           },
           {
             "Ministry": {
-              "text": "Ministry of Foreign Affairs and Trade",
+              "text": "Ministry of Foreign Affairs",
               "links": [
                 {
-                  "text": "Ministry of Foreign Affairs and Trade",
+                  "text": "Ministry of Foreign Affairs",
                   "type": "internal",
                   "page": "Ministry of Foreign Affairs (Brunei)"
                 }
               ]
             },
             "Minister": {
-              "text": "* HM Sultan Hassanal Bolkiah * Hon. Erywan Yusof (Second Minister)",
+              "text": "* HM Sultan Hassanal Bolkiah * Hon. Awang Erywan Yusof (Second Minister)",
               "links": [
                 {
                   "text": "HM",
@@ -324,13 +607,11 @@
                   "page": "Hassanal Bolkiah"
                 },
                 {
+                  "text": "Awang Erywan Yusof",
                   "type": "internal",
                   "page": "Erywan Yusof"
                 }
               ]
-            },
-            "Deputy Minister": {
-              "text": ""
             }
           },
           {
@@ -345,7 +626,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Dr. Md. Isham Jaafar"
+              "text": "* Hon. Dr. Awang Mohd. Isham Jaafar"
             },
             "Deputy Minister": {
               "text": ""
@@ -363,13 +644,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Abu Bakar Apong",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Abu Bakar Apong"
-                }
-              ]
+              "text": "* Hon. Awang Ahmaddin Abd. Rahman"
             },
             "Deputy Minister": {
               "text": ""
@@ -386,7 +661,7 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Ali Apong"
+              "text": "* Hon. Awang Abd. Manaf Metussin"
             },
             "Deputy Minister": {
               "text": ""
@@ -404,24 +679,24 @@
               ]
             },
             "Minister": {
-              "text": "* Hon. Awang Badaruddin Awang Othman"
+              "text": "* Hon. Awang Badaruddin Othman"
             },
             "Deputy Minister": {
-              "text": "* Pengiran Bahrom Pengiran Bahar"
+              "text": "* Hon. Pengiran Tassim Pengiran Hassan"
             }
           }
         ]
       ],
       "references": [
         {
-          "url": "http://pelitabrunei.gov.bn/Arkib%20Dokumen/2018/Januari/pelitabrunei_310118.pdf#search=Berkenan%20umum%20pelantikan%20kabinet%20baharu",
-          "title": "Pelantikan Menteri-Menteri Kabinet Baharu",
-          "date": "31 January 2018",
+          "url": "http://pelitabrunei.gov.bn/Arkib%20Dokumen/2022/PELITA%20BRUNEI%2008062022.pdf",
+          "title": "Pelantikan, Pertukaran Menteri Kabinet, Timbalan Menteri",
+          "date": "8 June 2022",
           "website": "Pelita Brunei",
           "publisher": "Department of Information",
           "location": "Bandar Seri Begawan",
           "language": "ms",
-          "access-date": "9 September 2021",
+          "access-date": "4 July 2022",
           "pp": "3",
           "template": "citation",
           "type": "news"
@@ -451,6 +726,44 @@
       ]
     },
     {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "refbegin"
+        },
+        {
+          "template": "refend"
+        }
+      ],
+      "references": [
+        {
+          "first": "K.U.",
+          "last": "Menon",
+          "title": "BRUNEI DARUSSALAM IN 1986: In Search of the Political Kingdom",
+          "journal": "Southeast Asian Affairs",
+          "date": "1987",
+          "pp": "85–101",
+          "jstor": "27908570",
+          "url": "http://www.jstor.org/stable/27908570",
+          "access-date": "19 July 2022",
+          "template": "citation",
+          "type": "cite journal"
+        }
+      ]
+    },
+    {
       "title": "External links",
       "depth": 0,
       "paragraphs": [
@@ -459,6 +772,9 @@
         }
       ],
       "templates": [
+        {
+          "template": "government of brunei"
+        },
         {
           "template": "current brunei cabinet"
         },
